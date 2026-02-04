@@ -1,3 +1,13 @@
 spring:
   application:
     name: aqueapp-service
+  datasource:
+    url: jdbc:mysql://localhost:3306/users_db
+    username: root
+    password: root
+
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database-platform: org.hibernate.dialect.MySQL5Dialect
