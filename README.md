@@ -15,6 +15,7 @@ Serviço backend da aplicação AqueApp, desenvolvido com Spring Boot e Java.
 ```
 aqueapp_service/
 ├── .mvn/wrapper/
+├── src
 ├── .gitattributes
 ├── .gitignore
 ├── mvnw
