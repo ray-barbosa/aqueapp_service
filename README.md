@@ -36,6 +36,10 @@ aqueapp_service/
 ./mvnw spring-boot:run
 ```
 
+### Fluxo de criação (v1)
+
+![Fluxo de criação de usuário](https://github.com/ray-barbosa/aqueapp_service/blob/main/aqueapp_usercreationflow.png)
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
